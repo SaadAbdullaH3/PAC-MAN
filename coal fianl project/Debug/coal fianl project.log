@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (coal fianl project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assembling 22i1045_B.asm...
+  coal fianl project.vcxproj -> C:\Users\Saad A\source\repos\coal fianl project\Debug\22i-1045-B-FallCoalProj.exe
